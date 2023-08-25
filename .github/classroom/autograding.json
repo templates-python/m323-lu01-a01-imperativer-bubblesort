@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Pytest",
+      "name": "test_sort_presorted",
       "setup": "sudo -H pip3 install -r requirements.txt",
       "run": "pytest -v  -k \"test_sort_presorted\"",
       "input": "",
@@ -11,7 +11,7 @@
       "points": 1
     },
         {
-      "name": "Pytest",
+      "name": "test_sort_inverse",
       "setup": "sudo -H pip3 install -r requirements.txt",
       "run": "pytest -v  -k \"test_sort_inverse\"",
       "input": "",
