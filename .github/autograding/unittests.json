@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_sort_presorted",
+    "function": "test_sort_presorted",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_sort_inverse",
+    "function": "test_sort_inverse",
     "timeout": 10,
     "points": 1
   }
